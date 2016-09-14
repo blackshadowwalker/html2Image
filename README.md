@@ -25,7 +25,7 @@ phantomjs 服务器，模拟浏览器请求，然后将整个页面转出成图�
  e.g : 
  
 ```shell
-curl -X POST --header 'Content-Type: application/x-www-form-urlencoded' -d 'url=http://www.csdn.net/' 'http://phantomjs.pandaxueche.com'
+curl -X POST --header 'Content-Type: application/x-www-form-urlencoded' -d 'url=http://www.csdn.net/' 'http://phantomjs.pandaxueche.com/html2Image'
 ```
 
 Result:
